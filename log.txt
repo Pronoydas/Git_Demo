@@ -1,0 +1,14 @@
+
+Log shows histry of Commit IDs 
+
+Few Options are :
+
+git log --oneline
+
+git log --graph
+
+
+git log <fileName>
+
+git log <Commit_ID>
+
